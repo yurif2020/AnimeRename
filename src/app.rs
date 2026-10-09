@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-FileCopyrightText: 2026 yurif2020
 //! 图形界面（native-windows-gui，原生 Win32 控件）
 
 use crate::bgm;

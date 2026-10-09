@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-FileCopyrightText: 2026 yurif2020
 //! 改名计划的构建、执行与撤销。
 //! 只处理目标文件夹的第一层（不递归），符合「单层文件夹」的使用习惯。
 

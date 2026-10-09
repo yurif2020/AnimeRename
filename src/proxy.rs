@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-FileCopyrightText: 2026 yurif2020
 //! 代理探测：默认跟随 Windows 系统代理（注册表 Internet Settings），
 //! 其次读取环境变量，最后允许在界面里手动覆盖。
 

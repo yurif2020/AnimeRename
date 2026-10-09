@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-FileCopyrightText: 2026 yurif2020
 //! 动漫文件名 / 文件夹名解析
 //!
 //! 典型输入：`[MingY] Shuumatsu Touring [12][WebRip][JPSC].mkv`

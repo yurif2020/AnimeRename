@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-FileCopyrightText: 2026 yurif2020
 //! 通用路径与时间工具
 
 use std::path::PathBuf;

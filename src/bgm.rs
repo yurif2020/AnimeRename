@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-FileCopyrightText: 2026 yurif2020
 //! Bangumi (bgm.tv) 查询与候选打分。
 //!
 //! 接口：`POST https://api.bgm.tv/v0/search/subjects`（免鉴权、真实按 keyword 过滤）

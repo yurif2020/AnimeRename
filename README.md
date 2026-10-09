@@ -139,4 +139,12 @@ MSVC 工具链则装好 Visual Studio Build Tools 即可，无需以上配置。
 
 ## 许可证
 
-暂未指定。
+本项目以 **GPL-3.0-only** 发布，全文见 [LICENSE](LICENSE)，各源文件顶部带
+`SPDX-License-Identifier: GPL-3.0-only` 标识。
+
+再分发（包括修改后的版本，以及以二进制形式提供时）必须同时提供对应源码，
+并保留本许可证与版权说明——这是 GPL-3.0 的核心义务。
+
+直接依赖均为宽松许可证，与 GPL-3.0 兼容：`native-windows-gui`、`winreg`、`rfd`
+为 MIT；`ureq`、`serde`、`serde_json`、`regex`、`chrono`、`unicode-normalization`
+为 MIT OR Apache-2.0。

@@ -3,6 +3,8 @@ name = "anime_rename"
 version = "1.0.0"
 edition = "2021"
 description = "动漫文件夹/文件名批量重命名为中文（Bangumi 查询 + 系统代理）"
+license = "GPL-3.0-only"
+repository = "https://github.com/yurif2020/AnimeRename"
 
 [[bin]]
 name = "AnimeRename"

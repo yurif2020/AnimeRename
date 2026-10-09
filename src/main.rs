@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-FileCopyrightText: 2026 yurif2020
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 //! 动漫文件名 / 文件夹中文重命名

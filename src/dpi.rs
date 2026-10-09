@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-3.0-only
+// SPDX-FileCopyrightText: 2026 yurif2020
 //! 高 DPI 支持
 //!
 //! 没有启用 native-windows-gui 的 `high-dpi` 特性：它只会自动缩放 ListView 的
