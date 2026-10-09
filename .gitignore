@@ -1,0 +1,6 @@
+/target
+# 本机专用的链接器路径，不随仓库分发
+/.cargo/
+*.exe
+*.pdb
+_sample/
